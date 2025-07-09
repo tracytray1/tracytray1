@@ -21,7 +21,7 @@ Why the switch? As someone with a constant stream of ideas, I see Web Developmen
 
 * Bring my ideas to life: I can finally translate my concepts into tangible, interactive experiences.
 * Express myself creatively: Coding provides a unique and powerful medium for self-expression.
-* Find mental clarity: Building projects helps me organize my thoughts and declutter my mind.
+* Find mental clarity: Building projects would help me organize my thoughts and declutter my mind.
 
 ## 🧰 My toolbox
 
